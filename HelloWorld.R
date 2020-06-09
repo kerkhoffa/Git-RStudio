@@ -2,4 +2,7 @@
 
 print("Hello World!")
 
-sqrt(9)
+z=1:100
+y=sqrt(z)
+
+plot(z,y)
