@@ -9,4 +9,4 @@ pdf("SquareRootPlot.pdf")
 plot(z,y)
 dev.off()
 
-print("Square root increase!")
+print("Square roots increase!")
