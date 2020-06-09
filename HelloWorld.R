@@ -6,3 +6,4 @@ z=1:100
 y=sqrt(z)
 
 plot(z,y)
+print("Square root increase!")
